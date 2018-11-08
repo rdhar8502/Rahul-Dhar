@@ -1,3 +1,4 @@
+# Depveloper : Rahul Dhar
 # import Tkinter
 from tkinter import StringVar, Frame, Label, Entry, Button, BOTTOM, LEFT, TOP, RIGHT, Tk, SUNKEN, X, Y
 
@@ -321,3 +322,6 @@ root.bind("<Alt - C>", copy)
 
 # End of GUI
 root.mainloop()
+
+
+# Depveloper : Rahul Dhar
