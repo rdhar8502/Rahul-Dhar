@@ -1,4 +1,5 @@
 # Depveloper : Rahul Dhar
+# This is a Massage Encript and Decript tool based on base64.
 # import Tkinter
 from tkinter import StringVar, Frame, Label, Entry, Button, BOTTOM, LEFT, TOP, RIGHT, Tk, SUNKEN, X, Y
 
